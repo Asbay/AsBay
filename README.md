@@ -11,6 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsBay&layout=compact)](https://github.com/AsBay/github-readme-stats)
 
+![image](https://user-images.githubusercontent.com/113926384/209178512-4b230fef-69b6-4b5f-8b76-17ebf74a43d1.png)
 
 
 
