@@ -8,8 +8,6 @@
 ![image](https://user-images.githubusercontent.com/113926384/209178980-be98d589-6bb8-441d-98e6-b6a6a1323a1b.png)
 
 
-![image](https://user-images.githubusercontent.com/113926384/209176585-1ad9e88c-696c-43e7-b220-82dada766995.png)
-
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=AsBay&show_icons=true&theme=gradient) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsBay&layout=compact)](https://github.com/AsBay/github-readme-stats)
