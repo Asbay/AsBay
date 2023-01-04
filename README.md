@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on Hilbert’s third problem: decomposing polyhedra
 - 🌱 I’m currently learning Spring Boot, Hibernate, MongoDB, React, Redux
-- ⚡ Fun fact: I love to swim 🏊‍♀️, cycling 🚴‍♀️-
-
+- ⚡ Fun fact: I love to swim 🏊‍♀️, cycling 🚴‍♀️, 
+![image](https://user-images.githubusercontent.com/113926384/209178980-be98d589-6bb8-441d-98e6-b6a6a1323a1b.png)
 
 ### 🔧 Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
@@ -23,13 +23,10 @@
 [<img align="left" alt="" width="40px" src="https://user-images.githubusercontent.com/113926384/209327089-383ea7bb-7809-4eda-b39a-cfa752b855fa.png">]
 
 
-![image](https://user-images.githubusercontent.com/113926384/209178980-be98d589-6bb8-441d-98e6-b6a6a1323a1b.png)
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=AsBay&show_icons=true&theme=gradient) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsBay&layout=compact)](https://github.com/AsBay/github-readme-stats)
-
-![image](https://user-images.githubusercontent.com/113926384/209178512-4b230fef-69b6-4b5f-8b76-17ebf74a43d1.png)
 
 
