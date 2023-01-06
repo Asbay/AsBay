@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Hilbert’s third problem: decomposing polyhedra
 - 🌱 I’m currently learning Spring Boot, Hibernate, MongoDB, React, Redux
-- ⚡ Fun fact: I love to swim 🏊‍♀️, cycling 🚴‍♀️, 
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
